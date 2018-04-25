@@ -1,0 +1,11 @@
+.env
+node_modules
+npm-debug.log
+authentication-service*.json
+coverage
+env
+dist
+package
+logs
+.idea
+.serverless
